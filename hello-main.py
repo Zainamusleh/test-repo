@@ -8,3 +8,5 @@ while True:
     sleep(1000)
     display.scroll('zaina')
     
+
+
